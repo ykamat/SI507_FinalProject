@@ -1,4 +1,4 @@
-# SI 507: Final Project - English Premier League 2019/20 Data Visualizer
+# English Premier League 2019/20 Data Visualizer
 
 How to use the visualizer:
 
